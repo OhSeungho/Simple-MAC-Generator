@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\OhSeungho\source\repos\200516_message\200516_message\main.cpp(13,42): warning C4042: 'key': 스토리지 클래스가 잘못되었습니다.
+C:\Users\OhSeungho\source\repos\200516_message\200516_message\main.cpp(33): warning C4715: 'server': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  200516_message.vcxproj -> C:\Users\OhSeungho\source\repos\200516_message\Debug\200516_message.exe
